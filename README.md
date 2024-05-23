@@ -22,4 +22,3 @@
 | Black-Scholes | Forecasted      | 8.475106 | 9.246386 |
 | CRR           | Forecasted      | 8.472379 | 9.272269 |
 | Simulation    | Forecasted      | 8.402203 | 9.112247 |
-# option-pricing-analysis-GOOG
